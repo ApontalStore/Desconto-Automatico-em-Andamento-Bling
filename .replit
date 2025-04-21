@@ -1,0 +1,6 @@
+language = "python3"
+run = "python main.py"
+
+[[ports]]
+localPort = 3000
+externalPort = 80
